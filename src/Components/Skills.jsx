@@ -4,7 +4,7 @@ import './Skills.css';
 const skills = [
   {
     category: "Programming Languages",
-    items: ["JavaScript", "Python", "C#", "Java", "C++"]
+    items: ["JavaScript", "Python", "C#", "Java"]
   },
   {
     category: "Front-End Technologies",
@@ -24,7 +24,7 @@ const skills = [
   },
   {
     category: "CI/CD & Version Control",
-    items: ["Git", "GitHub", "GitHub Actions", "Jenkins"]
+    items: ["Git", "GitHub", "Jenkins"]
   },
   {
     category: "Software Development Methodologies",
@@ -32,7 +32,7 @@ const skills = [
   },
   {
     category: "Testing & Quality Assurance",
-    items: ["Jest", "Cypress", "XUnit", "tSQLt"]
+    items: ["Junit", "Selenium"]
   }
 ];
 
