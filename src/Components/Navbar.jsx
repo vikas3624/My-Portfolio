@@ -19,7 +19,7 @@ const Navbar = () => {
           <li onClick={() => handleScroll('projects')}>Projects</li>
           <li>
             <a 
-              href="/resume.docx" 
+              href="/resume.pdf" 
               download 
               className="resume-btn"
             >
